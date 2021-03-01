@@ -1,8 +1,8 @@
 <?php
 
-$nome = "Leonardo";
+$nomeSobrenome = "Leonardo Carvalho";
 
-echo $nome;
+echo $nomeSobrenome. "<br>";
 
 // Tipos de dados 
 /*
@@ -20,11 +20,9 @@ $nome = "Leonardo";
 $acesso = true;
 
 echo $idade."<br>";
-echo $pi;."<br>";
-echo $nome;."<br>";
-eco $acesso;."<br>";
-
-
+echo $pi."<br>";
+echo $nome."<br>";
+echo $acesso."<br>";
 
 
 
